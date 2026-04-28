@@ -4,8 +4,8 @@
 
 **Northern Arizona University**
 
+[![Website](https://img.shields.io/badge/Website-radiant.nau.edu-blue?style=for-the-badge)](https://radiant.nau.edu)
 [![NAU](https://img.shields.io/badge/Northern%20Arizona%20University-003466?style=for-the-badge)](https://nau.edu)
-[![Office of the VP for Research](https://img.shields.io/badge/Office%20of%20the%20VP%20for%20Research-NAU-blue?style=for-the-badge)](https://nau.edu/research)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## About Radiant
 
-The **NAU Radiant Center for Remote Sensing** coalesces the expertise of approximately 30 faculty across Northern Arizona University into a dynamic, multidisciplinary research center. Housed in the Office of the Vice President for Research, Radiant brings together researchers from the College of the Environment, Forestry and Natural Sciences (CEFNS); the College of Engineering; and the College of Social and Behavioral Sciences to advance remote sensing science, instrumentation, and applications.
+The **NAU Radiant Center for Remote Sensing** is a dynamic, multidisciplinary research center at Northern Arizona University. Housed in the Office of the Vice President for Research, Radiant brings together researchers from the College of the Environment, Forestry and Natural Sciences (CEFNS); the College of Engineering; and the College of Social and Behavioral Sciences to advance remote sensing science, instrumentation, and applications.
 
 Faculty and students at Radiant use cutting-edge remote sensing techniques to answer pressing questions in planetary science, ecology, forestry, wildfire science, environmental science, urban planning and geography, geoscience, anthropology, and archaeology — across platforms ranging from handheld and UAV-mounted sensors to Earth-observing satellites and deep-space missions.
 
@@ -84,6 +84,7 @@ Northern Arizona provides an extraordinary natural laboratory for Radiant's work
 
 ## Contact & Learn More
 
+- 🌐 **Website:** [radiant.nau.edu](https://radiant.nau.edu)
 - 🏫 **Institution:** [Northern Arizona University](https://nau.edu)
 - 🔬 **Research Office:** [NAU Office of the Vice President for Research](https://nau.edu/research)
 
