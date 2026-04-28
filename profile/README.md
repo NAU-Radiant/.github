@@ -38,48 +38,6 @@ Radiant organizes its work around four interconnected activity areas:
 | 🔧 **Remote Sensing Instrumentation** | Design, fabrication, integration, and testing of wholly new sensor systems; UAV, airborne, handheld, and space-based payloads; embedded electronics |
 | 🚀 **Platform & Mission Development** | Conception and leadership of new measurement platforms and space missions; large-scale interdisciplinary programs producing globally impactful science datasets |
 
-### Sensing Techniques & Platforms
-
-- **Techniques:** visible, near-/shortwave-/thermal-infrared imaging and spectroscopy, lidar, radar, fluorescence, and more
-- **Platforms:** handheld, wearable, IoT/mesh sensors, tower- and tripod-mounted, UAV and crewed aircraft, satellite, and planetary missions
-
----
-
-## Student Training & Career Readiness
-
-Radiant is committed to expanding high-impact learning opportunities for undergraduate and graduate students:
-
-- Mentored hands-on laboratory and field research experiences
-- Formal internships with government agencies and industry partners
-- Course offerings across remote sensing and GIS, including a forthcoming remote sensing certificate
-- Funded research experiences targeting underrepresented students
-- Skills in manufacturing, integration and testing, geospatial analysis, programming, and environmental remediation
-
----
-
-## Community & Partner Engagement
-
-Radiant works with a broad range of external partners, including:
-
-- National Park Service · US Geological Survey · Bureau of Land Management · USDA Forest Service
-- Arizona Forestry and Fire Management
-- Pueblos of San Ildefonso, Pojoaque, and Ohkay Owingeh; state and Tribal museums in Arizona and New Mexico
-- National Conference of State Historic Preservation Officers
-- Community agricultural and environmental cooperatives
-
-Our non-invasive, non-destructive remote sensing methods align with research preferences of land management agencies and Indigenous communities, enabling collaborative, community-centered science.
-
----
-
-## Regional Strengths
-
-Northern Arizona provides an extraordinary natural laboratory for Radiant's work:
-
-- 🌲 **Wildfire & Forests** — Assessing fuel loads, post-burn impacts, and real-time fire monitoring across the western U.S.
-- 🪐 **Planetary Analogs** — Geologically unique terrains (e.g., Grand Canyon, SP Crater) regularly used for NASA astronaut training and planetary science research
-- 🏺 **Cultural Resource Stewardship** — Documenting Indigenous cultural sites using non-invasive remote sensing, in partnership with Tribal communities and land management agencies
-- 🌾 **Hat Ranch Field Station** — A dedicated remote sensing field camp for student training in experimental ecology and forestry
-
 ---
 
 ## Contact & Learn More
