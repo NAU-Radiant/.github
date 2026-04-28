@@ -1,11 +1,11 @@
 <div align="center">
 
-# ☀️ Radiant @ NAU
+# ☀️ NAU Radiant Center for Remote Sensing
 
-**A Research Computing Initiative at Northern Arizona University**
+**Northern Arizona University**
 
-[![Website](https://img.shields.io/badge/Website-radiant.nau.edu-blue?style=for-the-badge&logo=internet-explorer)](https://radiant.nau.edu)
 [![NAU](https://img.shields.io/badge/Northern%20Arizona%20University-003466?style=for-the-badge)](https://nau.edu)
+[![Office of the VP for Research](https://img.shields.io/badge/Office%20of%20the%20VP%20for%20Research-NAU-blue?style=for-the-badge)](https://nau.edu/research)
 
 </div>
 
@@ -13,48 +13,84 @@
 
 ## About Radiant
 
-Radiant is Northern Arizona University's research computing platform, providing high-performance computing resources, cloud infrastructure, and data services to support the research community at NAU and beyond.
+The **NAU Radiant Center for Remote Sensing** coalesces the expertise of approximately 30 faculty across Northern Arizona University into a dynamic, multidisciplinary research center. Housed in the Office of the Vice President for Research, Radiant brings together researchers from the College of the Environment, Forestry and Natural Sciences (CEFNS); the College of Engineering; and the College of Social and Behavioral Sciences to advance remote sensing science, instrumentation, and applications.
 
-Whether you're running large-scale simulations, processing genomic data, training machine learning models, or analyzing complex datasets, Radiant offers the compute power and storage solutions to accelerate your research.
-
----
-
-## What We Offer
-
-- 🖥️ **High-Performance Computing** — Access to powerful compute clusters for demanding workloads
-- ☁️ **Cloud Infrastructure** — Flexible, scalable cloud resources for research and education
-- 💾 **Research Data Storage** — Secure, reliable storage for your research datasets
-- 🔧 **Software & Tools** — Pre-installed scientific software stacks and development environments
-- 🤝 **Support & Consulting** — Expert assistance from our research computing team
+Faculty and students at Radiant use cutting-edge remote sensing techniques to answer pressing questions in planetary science, ecology, forestry, wildfire science, environmental science, urban planning and geography, geoscience, anthropology, and archaeology — across platforms ranging from handheld and UAV-mounted sensors to Earth-observing satellites and deep-space missions.
 
 ---
 
-## Getting Started
+## Vision & Mission
 
-Visit **[radiant.nau.edu](https://radiant.nau.edu)** to:
+**Vision:** Codify NAU as a preeminent leader in remote sensing and instrument development, becoming a self-sustaining center that external partners seek out for novel remote sensing implementations.
 
-1. Request an account
-2. Browse available resources and documentation
-3. Submit a support ticket or consultation request
+**Mission:** Create high-impact training, academic preparation, and research opportunities in a range of natural and social science disciplines centered around remote sensing — developing career readiness for undergraduate and graduate students alongside faculty, postdocs, and research staff with deep expertise in remote sensing techniques.
 
 ---
 
-## For Developers
+## Research Focus Areas
 
-This GitHub organization hosts the source code, configuration, and tooling that powers the Radiant platform. Contributions and issue reports from the NAU research community are welcome.
+Radiant organizes its work around four interconnected activity areas:
+
+| Area | Description |
+|------|-------------|
+| 🛰️ **Remote Sensing Applications** | Analysis of existing remotely sensed data from diverse platforms; development of new analysis techniques; complementary laboratory measurements |
+| 🔬 **Remote Sensing Science Innovations** | Novel data collection strategies; bridging end-users and developers; machine learning and advanced processing algorithms tailored to instruments |
+| 🔧 **Remote Sensing Instrumentation** | Design, fabrication, integration, and testing of wholly new sensor systems; UAV, airborne, handheld, and space-based payloads; embedded electronics |
+| 🚀 **Platform & Mission Development** | Conception and leadership of new measurement platforms and space missions; large-scale interdisciplinary programs producing globally impactful science datasets |
+
+### Sensing Techniques & Platforms
+
+- **Techniques:** visible, near-/shortwave-/thermal-infrared imaging and spectroscopy, lidar, radar, fluorescence, and more
+- **Platforms:** handheld, wearable, IoT/mesh sensors, tower- and tripod-mounted, UAV and crewed aircraft, satellite, and planetary missions
 
 ---
 
-## Contact
+## Student Training & Career Readiness
 
-- 🌐 **Website:** [radiant.nau.edu](https://radiant.nau.edu)
-- 📧 **Support:** Contact NAU ITS via the Radiant portal
+Radiant is committed to expanding high-impact learning opportunities for undergraduate and graduate students:
+
+- Mentored hands-on laboratory and field research experiences
+- Formal internships with government agencies and industry partners
+- Course offerings across remote sensing and GIS, including a forthcoming remote sensing certificate
+- Funded research experiences targeting underrepresented students
+- Skills in manufacturing, integration and testing, geospatial analysis, programming, and environmental remediation
+
+---
+
+## Community & Partner Engagement
+
+Radiant works with a broad range of external partners, including:
+
+- National Park Service · US Geological Survey · Bureau of Land Management · USDA Forest Service
+- Arizona Forestry and Fire Management
+- Pueblos of San Ildefonso, Pojoaque, and Ohkay Owingeh; state and Tribal museums in Arizona and New Mexico
+- National Conference of State Historic Preservation Officers
+- Community agricultural and environmental cooperatives
+
+Our non-invasive, non-destructive remote sensing methods align with research preferences of land management agencies and Indigenous communities, enabling collaborative, community-centered science.
+
+---
+
+## Regional Strengths
+
+Northern Arizona provides an extraordinary natural laboratory for Radiant's work:
+
+- 🌲 **Wildfire & Forests** — Assessing fuel loads, post-burn impacts, and real-time fire monitoring across the western U.S.
+- 🪐 **Planetary Analogs** — Geologically unique terrains (e.g., Grand Canyon, SP Crater) regularly used for NASA astronaut training and planetary science research
+- 🏺 **Cultural Resource Stewardship** — Documenting Indigenous cultural sites using non-invasive remote sensing, in partnership with Tribal communities and land management agencies
+- 🌾 **Hat Ranch Field Station** — A dedicated remote sensing field camp for student training in experimental ecology and forestry
+
+---
+
+## Contact & Learn More
+
 - 🏫 **Institution:** [Northern Arizona University](https://nau.edu)
+- 🔬 **Research Office:** [NAU Office of the Vice President for Research](https://nau.edu/research)
 
 <div align="center">
 
 ---
 
-*Empowering research through computing &mdash; Northern Arizona University*
+*Advancing remote sensing science, instrumentation, and education &mdash; Northern Arizona University*
 
 </div>

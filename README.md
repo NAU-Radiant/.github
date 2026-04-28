@@ -8,4 +8,4 @@ This repository contains the GitHub organization profile and community health fi
 
 ## About Radiant
 
-Radiant is Northern Arizona University's research computing platform. Visit [radiant.nau.edu](https://radiant.nau.edu) for more information.
+The NAU Radiant Center for Remote Sensing is a multidisciplinary research center at Northern Arizona University, housed in the Office of the Vice President for Research. Radiant unites ~30 faculty across engineering, natural sciences, and social sciences to advance remote sensing science, instrumentation, and applications across disciplines including planetary science, ecology, forestry, wildfire, and cultural resource management.
